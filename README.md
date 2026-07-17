@@ -22,7 +22,7 @@ This project uses two publicly available datasets:
 - **Source:** Kaggle
 - **Images:** ~87,000 RGB images
 - **Classes:** 38 healthy and diseased plant classes
-- **Link:** https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset :contentReference
+- **Link:** https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 ### 2. PlantDoc Dataset
 - **Source:** GitHub
