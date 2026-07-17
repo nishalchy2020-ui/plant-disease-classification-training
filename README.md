@@ -22,13 +22,13 @@ This project uses two publicly available datasets:
 - **Source:** Kaggle
 - **Images:** ~87,000 RGB images
 - **Classes:** 38 healthy and diseased plant classes
-- **Link:** https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset :contentReference[oaicite:0]{index=0}
+- **Link:** https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset :contentReference
 
 ### 2. PlantDoc Dataset
 - **Source:** GitHub
 - **Images:** Real-world plant leaf images
 - **Purpose:** Fine-tuning and evaluating real-world performance
-- **Link:** https://github.com/pratikkayal/PlantDoc-Dataset :contentReference[oaicite:1]{index=1}
+- **Link:** https://github.com/pratikkayal/PlantDoc-Dataset
 
 ## Tech Stack
 
